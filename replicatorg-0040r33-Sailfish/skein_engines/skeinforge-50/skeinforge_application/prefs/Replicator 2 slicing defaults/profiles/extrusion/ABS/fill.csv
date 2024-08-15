@@ -1,0 +1,48 @@
+Format is tab separated fill settings.
+_Name                          	Value
+WindowPosition	700+0
+Open File for Fill	
+Activate Fill	True
+Diaphragm Period (layers):	100
+Diaphragm Thickness (layers):	0
+Extra Shells on Alternating Solid Layer (layers):	1
+Extra Shells on Base (layers):	1
+Extra Shells on Sparse Layer (layers):	1
+Grid Circle Separation over Perimeter Width (ratio):	0.2
+Grid Extra Overlap (ratio):	0.1
+Grid Junction Separation Band Height (layers):	10
+Grid Junction Separation over Octogon Radius At End (ratio):	0.0
+Grid Junction Separation over Octogon Radius At Middle (ratio):	0.0
+Infill Begin Rotation (degrees):	90.0
+Infill Begin Rotation Repeat (layers):	1
+Infill Odd Layer Extra Rotation (degrees):	90.0
+Grid Circular	False
+Grid Hexagonal	False
+Grid Rectangular	True
+Line	False
+Infill Perimeter Overlap (ratio):	0.3
+Infill Solidity (ratio):	0.1
+Sharpest Angle (degrees):	60.0
+Solid Surface Thickness (layers):	3
+Enable automatic solid surface thickness	False
+Desired solid surface thickness (mm):	0.75
+Off	True
+Force odd top layer	False
+Force even top layer	False
+Off	True
+Disable top layers	False
+Print entire object	True
+Only print 1 layer	False
+Print x percentage of object	False
+Print x layers of object	False
+Percentage of object to print:	1.0
+Number of layers to print:	2.0
+Lower Left	True
+Nearest	False
+Surrounding Angle (degrees):	60.0
+Infill > Loops > Perimeter	False
+Infill > Perimeter > Loops	False
+Loops > Infill > Perimeter	False
+Loops > Perimeter > Infill	True
+Perimeter > Infill > Loops	False
+Perimeter > Loops > Infill	False
